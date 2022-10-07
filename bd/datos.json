@@ -1,0 +1,83 @@
+[
+    {
+        "cliente": "Alitas",
+        "version": "3.3",
+        "area": "CP",
+        "path": "https://bitbucket.org/coreappsmx/invoicespaymentsaraf/src/AlitasCP/",
+        "user": "",
+        "password": "",
+        "autor": "Orta"
+    },
+    {
+        "cliente": "Citi",
+        "version": "4.0",
+        "area": "Inv",
+        "path": "https://github.com/CoreAppsTeam/CITI_Invoice_4.0",
+        "user": "",
+        "password": "",
+        "autor": "Andrea"
+    },
+    {
+        "cliente": "Citi",
+        "version": "4.0",
+        "area": "NC",
+        "path": "https://github.com/CoreAppsTeam/CITI_NC_4.0",
+        "user": "",
+        "password": "",
+        "autor": "Andrea"
+    },
+    {
+        "cliente": "Citi",
+        "version": "4.0",
+        "area": "CP",
+        "path": "https://github.com/CoreAppsTeam/CITI_CP_4.0",
+        "user": "",
+        "password": "",
+        "autor": "Andrea"
+    },
+    {
+        "cliente": "BLK",
+        "version": "3.3",
+        "area": "Inv, NC y CP",
+        "path": "https://bitbucket.org/coreappsmx/invoicespaymentsarblk/src/BaseLogistik/",
+        "user": "",
+        "password": "",
+        "autor": "Orta"
+    },
+    {
+        "cliente": "Citlalin",
+        "version": "3.3",
+        "area": "Inv, NC y CP",
+        "path": "https://github.com/CoreAppsTeam/XxCitCFDI33",
+        "user": "",
+        "password": "",
+        "autor": "Andrea"
+    },
+    {
+        "cliente": "Landstar",
+        "version": "3.3",
+        "area": "Inv, CN y CP",
+        "path": "https://idcs-900018c8ab5b465186a2e41a35c7cc5b.identity.oraclecloud.com/ui/v1/signin",
+        "user": "",
+        "password": "",
+        "autor": "Alex"
+    },
+    {
+        "cliente": "CV Directo",
+        "version": "4.0",
+        "area": "Inv, NC y CP",
+        "path": "https://idcs-630cdfff90b34933911a5e46c6a1e36c.identity.oraclecloud.com/ui/v1/signin",
+        "user": "",
+        "password": "",
+        "autor": "Andrea"
+    },
+    {
+        "cliente": "JSAV",
+        "version": "3.3",
+        "area": "Inv, NC, CP",
+        "path": "https://github.com/CoreAppsTeam/JSAVCFDI",
+        "user": "",
+        "password": "",
+        "autor": "Andrea"
+    }
+]
