@@ -1,5 +1,6 @@
 [
     {
+        "id": "1",
         "cliente": "Alitas",
         "version": "3.3",
         "area": "CP",
@@ -9,6 +10,7 @@
         "autor": "Orta"
     },
     {
+        "id": "2",
         "cliente": "Citi",
         "version": "4.0",
         "area": "Inv",
@@ -18,6 +20,7 @@
         "autor": "Andrea"
     },
     {
+        "id": "3",
         "cliente": "Citi",
         "version": "4.0",
         "area": "NC",
@@ -27,6 +30,7 @@
         "autor": "Andrea"
     },
     {
+        "id": "4",
         "cliente": "Citi",
         "version": "4.0",
         "area": "CP",
@@ -36,6 +40,7 @@
         "autor": "Andrea"
     },
     {
+        "id": "5",
         "cliente": "BLK",
         "version": "3.3",
         "area": "Inv, NC y CP",
@@ -45,6 +50,7 @@
         "autor": "Orta"
     },
     {
+        "id": "6",
         "cliente": "Citlalin",
         "version": "3.3",
         "area": "Inv, NC y CP",
@@ -54,6 +60,7 @@
         "autor": "Andrea"
     },
     {
+        "id": "7",
         "cliente": "Landstar",
         "version": "3.3",
         "area": "Inv, CN y CP",
@@ -63,6 +70,7 @@
         "autor": "Alex"
     },
     {
+        "id": "8",
         "cliente": "CV Directo",
         "version": "4.0",
         "area": "Inv, NC y CP",
@@ -72,6 +80,7 @@
         "autor": "Andrea"
     },
     {
+        "id": "9",
         "cliente": "JSAV",
         "version": "3.3",
         "area": "Inv, NC, CP",
