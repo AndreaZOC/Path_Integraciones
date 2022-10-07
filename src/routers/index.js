@@ -12,8 +12,7 @@ router.post('/', (req, res) => {
     const { cliente, version, area, path, user, password, autor } = req.body;
     if (cliente && version && area && user && password && path && autor) {
         const id = integraciones.length + 1;
-        const test = "jiji"; //agrega un campo con info que no esta en la BD
-        const newIntegracion = { id, ...req.body, test}
+        const newIntegracion = { id, ...req.body}
         integraciones.push(newIntegracion);
         res.json(integraciones);
     } else {
