@@ -43,7 +43,14 @@ router.put('/:id', (req, res) => {
 
 });
 
-
-
+router.delete('/:id', (req, res)=>{
+    const {id} = req.params;
+    _.each(integraciones, (integracion, i)=>{
+        if(integracion.id== id){
+            integraciones.splice(i, 1);
+        }
+    });
+    res.send(integraciones);
+});
 
 module.exports = router;
